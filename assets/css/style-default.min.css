@@ -6978,7 +6978,7 @@ button:hover:after {
 .lgx-banner5,
 .lgx-banner6,
 .lgx-banner7 {
-	background: url(http://placehold.it/1920x912) top center no-repeat;
+	background: url(../img/footer-bg.jpg) top center no-repeat;
 	-webkit-background-size: cover;
 	-o-background-size: cover;
 	-moz-background-size: cover;
@@ -12087,7 +12087,7 @@ blockquote.lgx-testi-single:before {
 
 .lgx-subscriber-area-black,
 .lgx-subscriber-area-indiv {
-	background: url(http://placehold.it/1920x500) center center no-repeat;
+	background: url(../img/footer-bg.jpg) center center no-repeat;
 	-webkit-background-size: cover;
 	-o-background-size: cover;
 	-moz-background-size: cover;
@@ -12432,7 +12432,7 @@ blockquote.lgx-testi-single:before {
 }
 
 .lgx-banner-inner {
-	background: url(http://placehold.it/1920x500) center center no-repeat;
+	background: url(../img/footer-bg.jpg) center center no-repeat;
 	-webkit-background-size: cover;
 	-o-background-size: cover;
 	-moz-background-size: cover;
@@ -12647,7 +12647,7 @@ blockquote.lgx-testi-single:before {
 
 .lgx-post-wrapper article header .menu-price {
 	font-family: Oswald, sans-serif;
-	font-size: 26px;
+	font-size: 20px;
 	font-size: 2.6rem;
 	text-transform: uppercase;
 	text-align: right;
